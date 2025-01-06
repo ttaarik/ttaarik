@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on my banking project!<br>🤝 I’m looking for Developers to connect with<br>🌱 Learning React Native/Deploying Projects/Security<br>⚡ Working...
+🔭 Currently working on my banking project!<br>🤝 I’m looking for Developers to connect with<br>🌱 Learning Next.js/Deploying Projects/Security<br>⚡ Working...
 
 
 ## 🌐 Socials:
